@@ -1,0 +1,11 @@
+.boxing2 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border: 2px solid white;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 5px 5px 5px green;
+  text-align: center;
+}
