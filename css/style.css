@@ -1,23 +1,31 @@
 .boxing {
   height: 300px;
   width: 100px;
-  background-color: red;
+  background-image: url("../imgae/red-rose.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   border: 2px solid white;
   margin: 5px;
   display: inline-block;
   border-radius: 5px;
-  box-shadow: 5px 5px 5px green;
+  box-shadow: 5px 5px 10px red;
   text-align: center;
+  color: rgb(51, 255, 0);
+  font-weight: bolder;
+  text-decoration: 5px solid white;
+  text-shadow: 5px 5px 10px gold;
 }
 
 .boxing2 {
   height: 100px;
   width: 100px;
-  background-color: red;
+  background-image: url("../imgae/red-rose.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   border: 2px solid white;
   margin: 5px;
   display: inline-block;
   border-radius: 50%;
-  box-shadow: 5px 5px 5px green;
+  box-shadow: 5px 5px 5px rgb(189, 6, 6);
   text-align: center;
 }
